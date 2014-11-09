@@ -47,7 +47,7 @@
     margin-right: -250px;
 }
 
-/* Sidebar Styles */
+/*  Styles */
 
 .sidebar-nav {
     position: absolute;
@@ -106,6 +106,7 @@
 
     #sidebar-wrapper {
         width: 250px;
+        background: #800000;
     }
 
     #wrapper.toggled #sidebar-wrapper {
